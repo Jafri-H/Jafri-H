@@ -17,11 +17,11 @@
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, SQL, Bash <br>
-**Data & ML:** Pandas, NumPy, scikit‑learn, MLflow <br>
-**DevOps/Infra:** AWS, Terraform, Kubernetes, Docker, GitHub Actions <br>
+**Languages:** Python, SQL, Bash 
+**Data & ML:** Pandas, NumPy, scikit‑learn, MLflow 
+**DevOps/Infra:** AWS, Terraform, Kubernetes, Docker, GitHub Actions 
 **Monitoring/ITSM:** ServiceNow, Splunk, Dynatracev
-**Visualization:** Power BI, Tableau <br>
+**Visualization:** Power BI, Tableau 
 ---
 
 ## 🚀 Featured Projects
