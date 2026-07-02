@@ -13,51 +13,27 @@
 ## 🔭 Current Focus
 
 * **Learning/Building:** <e.g., End‑to‑end Snowflake ELT with dbt + Airflow>
-* **Topics I’m posting about:** SQL, Data Engineering, Incident Management, Cloud DevOps
-* **Open to:** Collaborations, mentoring, and freelance consulting
+* **Topics I’m posting about:** Exploratory Data Analysis, Machine Learning, SQL, Data Engineering, Incident Management, Cloud DevOps
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages:** Python, SQL (PostgreSQL/MySQL/T‑SQL), Bash
-**Data & ML:** Pandas, NumPy, scikit‑learn, MLflow
-**Warehouses/Lake:** Snowflake, S3, Parquet, Iceberg (exploring)
-**Orchestration:** Airflow, dbt
-**DevOps/Infra:** AWS, Terraform, Kubernetes, Docker, GitHub Actions
-**Monitoring/ITSM:** ServiceNow, Splunk, Dynatrace
-**BI/Viz:** Power BI, Tableau
-
-> *Certs (optional):* SnowPro Core, AWS Cloud Practitioner, ITIL v4, Tableau Desktop (replace with yours)
-
+**Languages:** Python, SQL, Bash <br>
+**Data & ML:** Pandas, NumPy, scikit‑learn, MLflow <br>
+**DevOps/Infra:** AWS, Terraform, Kubernetes, Docker, GitHub Actions <br>
+**Monitoring/ITSM:** ServiceNow, Splunk, Dynatracev
+**Visualization:** Power BI, Tableau <br>
 ---
 
 ## 🚀 Featured Projects
-
-- **[snowflake-etl-pipeline](https://github.com/Jafri-H/snowflake-etl-pipeline)** — Automated data pipeline using Snowflake + dbt + Airflow.
-- **[incident-automation-scripts](https://github.com/Jafri-H/incident-automation-scripts)** — Python scripts to streamline incident management.
-- **[aws-infra-terraform](https://github.com/Jafri-H/aws-infra-terraform)** — Infrastructure as Code setup for AWS using Terraform.
-
-> Pro tip: add a `/assets/cover.png` to each repo and show it in the README for visual punch.
-
 ---
 
 ## 📘 Recent Articles / Videos
-
-* [<Blog/Video Title 1>](https://link) — short summary
-* [<Blog/Video Title 2>](https://link) — short summary
-
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jafri-H&show_icons=true&theme=tokyonight" height="145" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jafri-H&theme=tokyonight" height="145" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jafri-H&layout=compact&theme=tokyonight" height="145" />
-</p>
-
+---
 
 ## 🗂️ Quick Links
 
@@ -71,7 +47,6 @@
 
 ## 🤝 Let’s Collaborate
 
-* **Data Engineering:** ELT pipelines, data modeling, dbt, Airflow
 * **DevOps for Data/ML:** Docker/K8s, GitHub Actions, IaC (Terraform)
 * **Incident Management:** Bridge facilitation, reporting automations, SLI/SLO dashboards
 
