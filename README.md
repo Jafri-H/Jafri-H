@@ -11,8 +11,6 @@
 ---
 
 ## 🔭 Current Focus
-
-* **Learning/Building:** <e.g., End‑to‑end Snowflake ELT with dbt + Airflow>
 * **Topics I’m posting about:** Exploratory Data Analysis, Machine Learning, SQL, Data Engineering, Incident Management, Cloud DevOps
 
 ---
