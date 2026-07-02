@@ -10,40 +10,40 @@
 
 ---
 
-## 🔭 Current Focus
+## Current Focus
 * **Topics I’m posting about:** Exploratory Data Analysis, Machine Learning, SQL, Data Engineering, Incident Management, Cloud DevOps
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-**Languages:** Python, SQL, Bash 
-**Data & ML:** Pandas, NumPy, scikit‑learn, MLflow 
-**DevOps/Infra:** AWS, Terraform, Kubernetes, Docker, GitHub Actions 
-**Monitoring/ITSM:** ServiceNow, Splunk, Dynatracev
-**Visualization:** Power BI, Tableau 
+* **Languages:** Python, SQL, Bash 
+* **Data & ML:** Pandas, NumPy, scikit‑learn, MLflow 
+* **DevOps/Infra:** AWS, Terraform, Kubernetes, Docker, GitHub Actions 
+* **Monitoring/ITSM:** ServiceNow, Splunk, Dynatracev
+* **Visualization:** Power BI, Tableau 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 ---
 
 ## 📘 Recent Articles / Videos
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ---
 
-## 🗂️ Quick Links
+## Quick Links
 
-* 🔗 **Portfolio / Site:** <https://www.hjafri.info/>
-* 📝 **Resume:** https://drive.google.com/file/d/1vGZHqQhqzOwHe3i-geN_J32hdXqVslXn/view
-* ▶️ **YouTube:** <link>
-* 💼 **LinkedIn:** https://www.linkedin.com/in/jafrih/
-* 🐦 **X (Twitter):** <link>
+* **Portfolio / Site:** <https://www.hjafri.info/>
+* **Resume:** https://drive.google.com/file/d/1vGZHqQhqzOwHe3i-geN_J32hdXqVslXn/view
+* **YouTube:** <link>
+* **LinkedIn:** https://www.linkedin.com/in/jafrih/
+* **X (Twitter):** <link>
 
 ---
 
-## 🤝 Let’s Collaborate
+## Let’s Collaborate
 
 * **DevOps for Data/ML:** Docker/K8s, GitHub Actions, IaC (Terraform)
 * **Incident Management:** Bridge facilitation, reporting automations, SLI/SLO dashboards
@@ -52,7 +52,7 @@
 
 ---
 
-## 🧪 How I Build Projects
+## How I Build Projects
 
 1. **Define outcomes** → metrics & acceptance criteria
 2. **Design** → architecture diagram + ADR (decision record)
