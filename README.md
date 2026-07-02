@@ -4,7 +4,7 @@
 # 👋 Hi, I’m Humayoon Jafri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
-**Data / DevOps / Analytics** • SQL | Python | Snowflake | AWS | Terraform | Kubernetes | Docker | Airflow | Power BI | Tableau | ServiceNow | Splunk | Dynatrace
+**Data / DevOps / Analytics**<br> • SQL | Python | Snowflake | AWS | Terraform | Kubernetes | Docker | Airflow | Power BI | Tableau | ServiceNow | Splunk | Dynatrace
 
 > Passionate about building reliable data systems, automating workflows, and teaching what I learn.
 
